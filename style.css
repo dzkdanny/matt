@@ -1,5 +1,5 @@
 /* Je donne le chemin d'accès à mon css d'un composant ici la nav*/
-@import url(components/navbar.css);
+@import url("components/navbar.css");
 
 body {
   margin: 40px 40px;
